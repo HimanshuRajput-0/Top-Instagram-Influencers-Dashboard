@@ -13,7 +13,9 @@ Instagram, a dominant photo and video-sharing platform, has evolved into a power
 
 Objectives:
 (1) Measure influencer performance using KPIs such as engagement rate, average likes per post, and like-to-follower ratio.
+
 (2) Visualize influencer trends over time and across regions.
+
 (3) Segment influencers based on growth patterns in likes and audience engagement.
 (4)Provide marketing insights to identify top-performing influencers per country.
 
